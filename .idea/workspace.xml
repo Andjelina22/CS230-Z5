@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5469798-a40c-4501-8cd9-17c1de6a9500" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CS230-Z5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interceptor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server.py" afterDir="false" />
+    <list default="true" id="c5469798-a40c-4501-8cd9-17c1de6a9500" name="Changes" comment="Zadatak 5-Nivo 1">
+      <change afterPath="$PROJECT_DIR$/Client1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middleware1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Andjelina22"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Andjelina22/CS230-Z5.git",
+    "accountId": "6f73caac-cf11-46b6-bb50-952b42a6c2b7"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6,
   "fromUser": false
@@ -39,8 +47,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Client.executor": "Run",
+    "Python.Client1.executor": "Run",
     "Python.Interceptor.executor": "Run",
+    "Python.Middleware1.executor": "Run",
     "Python.Server.executor": "Run",
+    "Python.Server1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -63,9 +74,22 @@
       <option name="presentableId" value="Default" />
       <updated>1781097611500</updated>
     </task>
+    <task id="LOCAL-00001" summary="Zadatak 5-Nivo 1">
+      <option name="closed" value="true" />
+      <created>1781097907476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781097907477</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Zadatak 5-Nivo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadatak 5-Nivo 1" />
   </component>
 </project>
